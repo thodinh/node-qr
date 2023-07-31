@@ -1,1 +1,1 @@
-# node-qr
+# QR Code Art
